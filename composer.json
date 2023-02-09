@@ -1,11 +1,12 @@
 {
-    "name": "laravel/laravel",
+    "name": "admin-kit/admin-kit",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "admin-kit/core": "^1.2",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^3.0",
